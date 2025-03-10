@@ -20,10 +20,10 @@ class config:
     #Info
     BOT_VERSION = "x"
     OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
+    OWNER_USERNAME = "GOKUxEDITION"
+    SUPPORT_CHAT = -1002386681174
+    SUPPORT_CHAT_USERNAME = "II_Masti_Ki_Pathshala_II"
+    SUPPORT_CHAT_LINK = "https://t.me/NasediServer"
     LOG_CHANNEL = -1001625036774
     ERROR_LOG_CHANNEL = -1001625036774
     DOWNLOAD_LOCATION = "./downloads"
